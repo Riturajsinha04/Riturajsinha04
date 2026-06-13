@@ -1,4 +1,4 @@
-3<h1 align="left">Hey 👋 I'm Ritu Raj Sinha</h1>
+<h1 align="left">Hey 👋 I'm Ritu Raj Sinha</h1>
 
 ###
 
