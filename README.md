@@ -60,10 +60,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaR/maurodesouzaR/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzaR/maurodesouzaR/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.Riturajsinha04.com/maurodesouzaR/maurodesouzaR/pacman-output/pacman-contribution-graph.svg">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riturajsinha04/Riturajsinha04/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riturajsinha04/Riturajsinha04/output/github-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Riturajsinha04/Riturajsinha04/output/github-snake.svg">
 </picture>
 
 ###
