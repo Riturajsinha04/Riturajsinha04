@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Ritu Raj Sinha</h1>
+3<h1 align="left">Hey 👋 I'm Ritu Raj Sinha</h1>
 
 ###
 
@@ -69,7 +69,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzaR.maurodesouzaR&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Riturajsinha04.Riturajsinha04"/>
 </div>
 
 ###
